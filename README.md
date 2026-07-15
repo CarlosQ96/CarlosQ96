@@ -8,6 +8,7 @@ Software engineer with 8 years of experience, strong backend background (Ruby on
 - **[Camello](https://camello.xyz/)** — AI agents that sell, support, and grow your business across WhatsApp (Typescript, AI Agents)
 - **[Galeon](https://www.galeon.finance/)** — Compliance-ready privacy for real-world payments (Mantle global hackathon winner) (Adonisjs, Web3)
 - **[Giveth](https://giveth.io/)** — Donation platform for public goods (Javascript Backend)
+- **[Prisma Dids](https://github.com/prisma-collective/dids)** - Decentralized Identity framework for Cardano, Winner of Cardano Grant. (Javascript, Cardano blockchain web3)
 - **[Do it Center](https://www.doitcenter.com.pa/)** — Shopify ecommerce for one of Panama's largest home-improvement retailers, including the backend of the mobile app. (Ruby on Rails + Shopify)
 - **[Tuily](https://www.koombea.com/blog/es/tuily-una-innovadora-solucion-fintech-para-pymes/)** — Fintech cards and expense management for small and medium businesses (Ruby on Rails, Fintech)
 - **[FlightLogger](https://www.koombea.com/case-studies/flightlogger)** — Mobile app for real-time flight tracking and itinerary management (Ruby on rails)

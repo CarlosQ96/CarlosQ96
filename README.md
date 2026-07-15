@@ -4,10 +4,13 @@ Software engineer with 8 years of experience, strong backend background (Ruby on
 
 ## Projects
 
-- **[Sippy](https://www.sippy.lat/)** — Stablecoin payments through WhatsApp (ETHOnline 2025 Finalist)
-- **[Camello](https://camello.xyz/)** — AI agents that sell, support, and grow your business across WhatsApp
-- **[Galeon](https://www.galeon.finance/)** — Compliance-ready privacy for real-world payments (Mantle global hackathon winner)
-- **[Giveth](https://giveth.io/)** — Donation platform for public goods
+- **[Sippy](https://www.sippy.lat/)** — Stablecoin payments through WhatsApp (ETHOnline 2025 Finalist) (Typescript, AI Agents, Web3)
+- **[Camello](https://camello.xyz/)** — AI agents that sell, support, and grow your business across WhatsApp (Typescript, AI Agents)
+- **[Galeon](https://www.galeon.finance/)** — Compliance-ready privacy for real-world payments (Mantle global hackathon winner) (Adonisjs, Web3)
+- **[Giveth](https://giveth.io/)** — Donation platform for public goods (Javascript Backend)
+- **[Do it Center](https://www.doitcenter.com.pa/)** — Shopify ecommerce for one of Panama's largest home-improvement retailers, including the backend of the mobile app. (Ruby on Rails + Shopify)
+- **[Tuily](https://www.koombea.com/blog/es/tuily-una-innovadora-solucion-fintech-para-pymes/)** — Fintech cards and expense management for small and medium businesses (Ruby on Rails, Fintech)
+- **[FlightLogger](https://www.koombea.com/case-studies/flightlogger))** — Flight training management software for flight schools (Ruby on rails)
 
 ## Stack
 

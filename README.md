@@ -1,6 +1,6 @@
 # Hey, I'm Carlos Quintero
 
-Software engineer with 8 years of experience, strong backend background (Ruby on Rails, Typescript), now building across Web3 and AI.
+Software engineer with 8 years of experience, strong backend background (Ruby on Rails, Typescript), now building across Web3 and AI. Enthusiast about multiple technologies like Flutter, Godot and Elixir.
 
 ## Portfolio of Projects:
 
@@ -11,6 +11,7 @@ Software engineer with 8 years of experience, strong backend background (Ruby on
 - **[Do it Center](https://www.doitcenter.com.pa/)** — Shopify ecommerce for one of Panama's largest home-improvement retailers, including the backend of the mobile app. (Ruby on Rails + Shopify)
 - **[Tuily](https://www.koombea.com/blog/es/tuily-una-innovadora-solucion-fintech-para-pymes/)** — Fintech cards and expense management for small and medium businesses (Ruby on Rails, Fintech)
 - **[FlightLogger](https://www.koombea.com/case-studies/flightlogger)** — Mobile app for real-time flight tracking and itinerary management (Ruby on rails)
+- **[Astrea](https://github.com/CarlosQ96/Astrea)** - Mobile app made with flutter, with an AI agent to handle reminders for their users with Claude. (Flutter, AI Agents)
 
 ## Stack
 
